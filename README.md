@@ -23,3 +23,5 @@ node deploy.js
 ```
 node index.js
 ```
+
+Lembre-se de ativar as intents no [Portal do Desenvolvedor](https://discord.com/developers/applications)

@@ -5,7 +5,7 @@ const dotenv = require('dotenv');
 dotenv.config();
 const { token } = process.env;
 
-const client = new Client({ intents: [GatewayIntentBits.Guilds] });
+const client = new Client({ intents: 3276799 });
 
 client.commands = new Collection();
 const foldersPath = path.join(__dirname, 'commands');
